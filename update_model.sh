@@ -1,3 +1,4 @@
 #!/bin/bash
 
-python delete_endpoint.py; python pipeline.py
+python3 delete_endpoint.py
+python3 pipeline.py
